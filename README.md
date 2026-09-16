@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## Frontend Developer
 
 - 🖥️  See my portfolio at [this link](http://guntaxd.github.io)
-- ✉️  You can contact me at [juanferreira65@gmail.com](mailto:juanferreira65@gmail.com)
 - 🧠  I've been learning to code for 3 years, i start with c then i learned c++....
 - 👯 I’m looking to collaborate in any proyect where i can help
 
